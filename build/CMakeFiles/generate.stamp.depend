@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/Cmake/share/cmake-3.22/Modules/CMakeCInformation.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeCXXInformation.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeGenericSystem.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeRCInformation.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake
+D:/Cmake/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Cmake/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Cmake/share/cmake-3.22/Modules/Compiler/MSVC-C.cmake
+D:/Cmake/share/cmake-3.22/Modules/Compiler/MSVC-CXX.cmake
+D:/Cmake/share/cmake-3.22/Modules/Platform/Windows-MSVC-C.cmake
+D:/Cmake/share/cmake-3.22/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Cmake/share/cmake-3.22/Modules/Platform/Windows-MSVC.cmake
+D:/Cmake/share/cmake-3.22/Modules/Platform/Windows.cmake
+D:/Cmake/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake
+F:/DATABASE/pj2/myjql/CMakeLists.txt
+F:/DATABASE/pj2/myjql/build/CMakeFiles/3.22.0/CMakeCCompiler.cmake
+F:/DATABASE/pj2/myjql/build/CMakeFiles/3.22.0/CMakeCXXCompiler.cmake
+F:/DATABASE/pj2/myjql/build/CMakeFiles/3.22.0/CMakeRCCompiler.cmake
+F:/DATABASE/pj2/myjql/build/CMakeFiles/3.22.0/CMakeSystem.cmake

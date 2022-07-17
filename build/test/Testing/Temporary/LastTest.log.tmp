@@ -1,0 +1,19 @@
+Start testing: Jun 11 15:12 ?D1迆㊣那℅?那㊣??
+----------------------------------------------------------
+1/3 Testing: test_hash_map
+1/3 Test: test_hash_map
+Command: "F:/DATABASE/pj2/myjql/build/test/Debug/test_hash_map.exe"
+Directory: F:/DATABASE/pj2/myjql/build/test
+"test_hash_map" start time: Jun 11 15:12 ?D1迆㊣那℅?那㊣??
+Output:
+----------------------------------------------------------
+max_val = 128
+* expected size: 38
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Failed.
+"test_hash_map" end time: Jun 11 15:12 ?D1迆㊣那℅?那㊣??
+"test_hash_map" time elapsed: 00:00:00
+----------------------------------------------------------
+

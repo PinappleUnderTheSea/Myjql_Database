@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\DATABASE\pj2\myjql\build\CMakeFiles\1fca322095c2fda8f889d5c2ec271d55\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2359AFE1-A0F9-39D2-B0F1-5E3A6FC38CB1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

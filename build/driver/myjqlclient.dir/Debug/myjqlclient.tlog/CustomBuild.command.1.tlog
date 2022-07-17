@@ -1,0 +1,10 @@
+^F:\DATABASE\PJ2\MYJQL\DRIVER\CMAKELISTS.TXT
+setlocal
+D:\Cmake\bin\cmake.exe -SF:/DATABASE/pj2/myjql -BF:/DATABASE/pj2/myjql/build --check-stamp-file F:/DATABASE/pj2/myjql/build/driver/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
